@@ -1,4 +1,4 @@
-# Create environmant with Pythno27
+# Create environment with Pythno27
 conda create -n Python27 python=2.7
 
 # activate/deactivate environment
