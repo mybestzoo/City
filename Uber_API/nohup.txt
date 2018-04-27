@@ -574,163 +574,1092 @@ The response atThe response at 2018-04-27 07:59:38 was:
 'prices'
 The response atThe response at 2018-04-27 07:59:53 was: 
 {u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
-{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 07:59:58 was: 
-{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
-{"message":"Exceeded rate limit","code":"rate_limited"}
-'prices'
-The response at 2018-04-27 07:59:58 was: 
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:35:52 was: 
 {u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
 {"message":"Exceeded rate limit","code":"rate_limited"}
 'times'
-aximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:27:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:27:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:28:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:28:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:28:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:29:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:29:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:29:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:29:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:30:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:30:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:30:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:31:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:31:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:31:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:31:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:32:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:32:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:32:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:33:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:33:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:33:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:33:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:34:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:34:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:34:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:35:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:35:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:35:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:35:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:36:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:36:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:36:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:37:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:37:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:37:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:37:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:38:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:38:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:38:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:39:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:39:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:39:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:39:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:40:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:40:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:40:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:41:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:41:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:41:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:41:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:42:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:42:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:42:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:43:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:43:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:43:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:43:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:44:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:44:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:44:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:45:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:45:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:45:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:45:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:46:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:46:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:46:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:47:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:47:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:47:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:47:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:48:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:48:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:48:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:49:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:49:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:49:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:49:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:50:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:50:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:50:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:51:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:51:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:51:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:51:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:52:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:52:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:52:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:53:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:53:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:53:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:53:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:54:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:54:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:54:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:55:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:55:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:55:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:55:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:56:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:56:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:56:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:57:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:57:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:57:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:57:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:58:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:58:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:58:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:59:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:59:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:59:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 04:59:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:00:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:00:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:00:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:01:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:01:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:01:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:01:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:02:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:02:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:02:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:03:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:03:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:03:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:03:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:04:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:04:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:04:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:05:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:05:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:05:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:05:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:06:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:06:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:06:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:07:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:07:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:07:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:07:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:08:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:08:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:08:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:09:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:09:16 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:09:31 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:09:46 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:10:01 PDT)" skipped: maximum number of running instances reached (1)
-WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:10:16 PDT)" skipped: maximum number of running instances reached (1)
+The response at The response at 2018-04-27 08:35:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:36:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:36:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:36:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:36:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:36:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:36:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:36:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:36:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:37:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:37:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:37:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:37:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:37:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:37:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:37:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:37:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:38:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:38:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:38:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:38:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:38:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:38:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:38:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:38:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:39:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:39:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:39:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:39:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:39:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:39:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:39:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:39:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:40:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:40:09 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:40:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:40:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:40:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:40:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:40:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:40:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:41:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:41:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:41:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:41:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:41:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:41:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:41:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:41:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:42:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:42:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:42:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:42:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:42:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:42:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:42:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:42:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:43:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:43:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:43:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:43:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:43:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:43:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:43:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:43:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:44:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:44:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:44:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:44:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:44:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:44:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:44:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:44:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:45:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:45:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:45:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:45:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:45:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:45:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:45:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:45:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:46:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:46:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:46:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:46:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:46:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:46:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:46:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:46:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:47:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:47:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:47:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:47:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:47:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:47:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:47:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:47:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:48:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:48:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:48:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:48:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:48:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:48:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:48:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:48:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:49:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:49:11 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:49:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:49:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:49:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:49:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:49:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:49:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:50:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:50:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:50:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:50:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:50:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:50:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:50:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:50:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:51:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:51:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:51:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:51:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:51:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:51:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:51:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:51:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:52:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response at 2018-04-27 08:52:09 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at 2018-04-27 08:52:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:52:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:52:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:52:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:52:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:52:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:53:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:53:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:53:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:53:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:53:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:53:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:53:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:53:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:54:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:54:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:54:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:54:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:54:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:54:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:54:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:54:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:55:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:55:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:55:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:55:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:55:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:55:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:55:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:55:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:56:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:56:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:56:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:56:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:56:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:56:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:56:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:56:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:57:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:57:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:57:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:57:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:57:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:57:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:57:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:57:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:58:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:58:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:58:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:58:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:58:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:58:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:58:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:58:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:59:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:59:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:59:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:59:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:59:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 08:59:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 08:59:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 08:59:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:35:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:35:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:36:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:36:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:36:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:36:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:36:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:36:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:36:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:36:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:37:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:37:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:37:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:37:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:37:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:37:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:37:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:37:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:38:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:38:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:38:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:38:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:38:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:38:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:38:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:38:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:39:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:39:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:39:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:39:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:39:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:39:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:39:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:39:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:40:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:40:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:40:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:40:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:40:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:40:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:40:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:40:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:41:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:41:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:41:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:41:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:41:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:41:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:41:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:41:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:42:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:42:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:42:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:42:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:42:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:42:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:42:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:42:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:43:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:43:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:43:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:43:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:43:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:43:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:43:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:43:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:44:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:44:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:44:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:44:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:44:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:44:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:44:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:44:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:45:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:45:08 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:45:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:45:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:45:37 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:45:38 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:45:52 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+The response atThe response at 2018-04-27 09:45:53 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:46:07 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:46:11 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limThe response at 2018-04-27 09:46:22 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at The response at 2018-04-27 09:46:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at 2018-04-27 09:46:23 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+ 2018-04-27 09:45:58 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at 2018-04-27 09:46:13 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'times'
+The response at 2018-04-27 09:46:13 was: 
+{u'message': u'Exceeded rate limit', u'code': u'rate_limited'}
+{"message":"Exceeded rate limit","code":"rate_limited"}
+'prices'
+heduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:41:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:41:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:41:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:42:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:42:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:42:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:43:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:43:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:43:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:43:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:44:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:44:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:44:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:45:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:45:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:45:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:45:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:46:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:46:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:46:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:47:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:47:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:47:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:47:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:48:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:48:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:48:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:49:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:49:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:49:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:49:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:50:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:50:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:50:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:51:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:51:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:51:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:51:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:52:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:52:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:52:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:53:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:53:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:53:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:53:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:54:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:54:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:54:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:55:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:55:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:55:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:55:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:56:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:56:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:56:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:57:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:57:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:57:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:57:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:58:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:58:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:58:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:59:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:59:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:59:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 05:59:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:00:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:00:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:00:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:01:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:01:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:01:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:01:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:02:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:02:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:02:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:03:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:03:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:03:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:03:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:04:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:04:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:04:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:05:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:05:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:05:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:05:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:06:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:06:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:06:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:07:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:07:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:07:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:07:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:08:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:08:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:08:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:09:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:09:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:09:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:09:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:10:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:10:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:10:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:11:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:11:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:11:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:11:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:12:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:12:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:12:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:13:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:13:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:13:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:13:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:14:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:14:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:14:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:15:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:15:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:15:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:15:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:16:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:16:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:16:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:17:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:17:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:17:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:17:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:18:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:18:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:18:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:19:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:19:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:19:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:19:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:20:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:20:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:20:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:21:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:21:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:21:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:21:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:22:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:22:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:22:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:23:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:23:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:23:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:23:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:24:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:24:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:24:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:25:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:25:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:25:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:25:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:26:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:26:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:26:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:27:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:27:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:27:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:27:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:28:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:28:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:28:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:29:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:29:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:29:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:29:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:30:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:30:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:30:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:31:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:31:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:31:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:31:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:32:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:32:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:32:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:33:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:33:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:33:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:33:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:34:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:34:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:34:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:35:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:35:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:35:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:35:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:36:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:36:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:36:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:37:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:37:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:37:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:37:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:38:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:38:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:38:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:39:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:39:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:39:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:39:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:40:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:40:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:40:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:41:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:41:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:41:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:41:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:42:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:42:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:42:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:43:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:43:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:43:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:43:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:44:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:44:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:44:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:45:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:45:16 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:45:31 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:45:46 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:46:01 PDT)" skipped: maximum number of running instances reached (1)
+WARNING:apscheduler.scheduler:Execution of job "gather_loop (trigger: interval[0:00:15], next run at: 2018-04-27 06:46:16 PDT)" skipped: maximum number of running instances reached (1)
