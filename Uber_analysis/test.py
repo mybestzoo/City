@@ -39,6 +39,9 @@ difbN = zscore(difb)
 #lag = np.argmax(correlate(difa[0:20], difb[0:20],mode='same'))
 difbNrol = np.roll(difbN, shift=int(1))
 
+# add_regressor here https://github.com/facebook/prophet/blob/v0.2/notebooks/seasonality_and_holiday_effects.ipynb 
+
+
 plt.plot(difaN)
 #plt.plot(difb[0:20])
 plt.plot(difbNrol)
