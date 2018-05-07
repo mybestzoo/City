@@ -31,6 +31,9 @@ df_new['ds'] = df_new.index
 
 df_new = df_new[['ds','y', 'expected_wait_time']]
 df_new = df_new.reset_index(drop=True)
+df_new['expected_wait_time'] = np.roll(df_new['expected_wait_time'].values, shift=int(1))
+
+df_new = df_new.dropna()
 
 df_train = df_new[:10000]
 df_test = df_new[10000:]
@@ -46,6 +49,12 @@ m.fit(df_train)
 forecast = m.predict(df_test)
 forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].tail()
 
-m.plot(forecast)
+#m.plot(forecast)
 
-m.plot_components(forecast)
+#draw surge multiplier and mean ETA for every 3 min period
+plt.plot(forecast['ds'],forecast['yhat'],color='green')
+plt.plot(forecast['ds'],df_new['y'].iloc[10000:], color='blue')
+
+plt.show()
+
+#m.plot_components(forecast)
