@@ -1,4 +1,8 @@
-The response at 2018-05-06 14:22:11 was: 
-{u'message': u'Service Unavailable.', u'code': u'service_unavailable'}
-{"code":"service_unavailable","message":"Service Unavailable."}
+WARNING:apscheduler.executors.default:Run time of job "gather_loop (trigger: interval[0:01:00], next run at: 2018-05-07 02:01:30 PDT)" was missed by 0:00:58.370599
+WARNING:apscheduler.executors.default:Run time of job "gather_loop (trigger: interval[0:01:00], next run at: 2018-05-07 02:37:35 PDT)" was missed by 0:01:38.693318
+WARNING:apscheduler.executors.default:Run time of job "gather_loop (trigger: interval[0:01:00], next run at: 2018-05-07 02:39:35 PDT)" was missed by 0:00:33.443641
+sed by 0:00:25.463781
+The response at 2018-05-07 08:16:50 was: 
+{u'message': u'No authentication provided.', u'code': u'unauthorized'}
+{"message":"No authentication provided.","code":"unauthorized"}
 'prices'
