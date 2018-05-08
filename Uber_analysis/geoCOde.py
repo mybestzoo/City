@@ -9,8 +9,6 @@ Created on Tue May  8 05:37:12 2018
 import numpy as np
 import pandas as pd
 import geocoder
-g = geocoder.yandex('Басманный, Большая Почтовая улица, дом 61-67, строение 1')
-g.geojson
 
 df = pd.read_excel('veloparking.xlsx')
 
@@ -40,3 +38,11 @@ df_config['Address'] = df_config.index
 df_config.columns = ['location_id', 'latitude', 'longitude']
 
 df_config.to_json(orient='records')
+
+df = pd.read_csv('veloparking.csv')
+
+df_small = df.copy()
+df_small.columns = ['location_id', 'latitude', 'longitude']
+
+
+df_small[df_small['Unnamed: 0'] % 2 != 0]
