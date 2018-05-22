@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 
 
 # Read data
-df = pd.read_csv("uberMoscow.csv")
+df = pd.read_csv("UberKM.csv")
 
 df_uberX = df[df.start_location_id == 1]
 df_uberX = df_uberX[df.product_type == 'uberX']

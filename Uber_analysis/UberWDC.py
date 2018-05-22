@@ -67,4 +67,3 @@ df_new['wait_time_mean'] = wait_time_mean
 #draw surge multiplier and mean ETA for every 3 min period
 plt.plot(df_new['timestamp'].head(200),df_new['surge_multiplier'].head(200))
 plt.plot(df_new['timestamp'].head(200),df_new['wait_time_mean'].head(200)/np.max(df_new['wait_time_mean'].head(200)))
-
